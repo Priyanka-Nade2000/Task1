@@ -1,0 +1,326 @@
+/* Styling for the boxed container */
+.container {
+    border: 2px solid #000; /* Black border */
+    padding: 20px;          /* Padding inside the border */
+    margin: 20px auto;      /* Center the container and add margin outside */
+    background-color: #f9f9f9; /* Light grey background */
+    border-radius: 10px;    /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    max-width: 800px;       /* Limit the maximum width */
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 275px;
+    padding: 10px; 
+    border-radius: 8px;
+    border: 2px solid #000;
+    margin-inline: 230px;
+    margin-top: 30px;
+    background-color: purple;
+    color: white;
+  
+}
+
+.p1{
+    justify-content: center;
+    align-items: center;
+    margin-left: 130px;
+}
+
+.p2{
+    justify-content: center;
+    align-items: center;
+    margin-left: 115px;
+}
+
+.p3{
+    justify-content: center;
+    align-items: center;
+    margin-left: 230px;
+}
+h2{
+    color: purple;
+    margin-left: 130px;
+    
+
+}
+h3{
+    justify-content: center;
+    align-items: center;
+ 
+    margin-left: 320px;
+}
+.team{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 275px;
+    padding: 10px; 
+    border-radius: 8px;
+    border: 2px solid #000;
+    margin-inline: 249px;
+    margin-top: 30px;
+    background-color: purple;
+    color: white;
+}
+  
+.Image {
+    display: grid; /* Use grid layout */
+    grid-auto-flow: column; /* Arrange items in a single row */
+    gap: 115px; /* Optional: Add some space between images */
+    margin-inline: 225px;
+    margin-top: 30px;
+   
+}
+
+.Image img {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 60px;
+    border: 2px solid black;
+}
+ 
+.Image2 {
+    display: grid; /* Use grid layout */
+    grid-auto-flow: column; /* Arrange items in a single row */
+    gap: 115px; /* Optional: Add some space between images */
+    margin-inline: 140px;
+    margin-top: 10px;
+   
+}
+
+.Image2 img {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 60px;
+    border: 2px solid black;
+}
+ 
+.team1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 275px;
+    padding: 10px; 
+    border-radius: 8px;
+    border: 2px solid #000;
+    margin-inline: 264px;
+    margin-top: -50px;
+    background-color: purple;
+    color: white;
+}
+  .Image3{
+    margin-inline: -19px;
+    margin-top: 30px;
+  }
+
+  .Image3 img {
+    width: 50px; /* Set the desired width */
+    height: 50px; /* Set the desired height */
+    
+
+}
+.Image4 {
+    display: grid; /* Use grid layout */
+    grid-auto-flow: column; /* Arrange items in a single row */
+    gap: 115px; /* Optional: Add some space between images */
+    margin-inline: 50px;
+    margin-top: 30px;
+   
+}
+
+.Image4 img {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 60px;
+    border: 2px solid black;
+}
+.Image5 {
+    display: grid; /* Use grid layout */
+    grid-auto-flow: column; /* Arrange items in a single row */
+    gap: 115px; /* Optional: Add some space between images */
+    margin-inline: 158px;
+    margin-top: 30px;
+   
+}
+
+.Image5 img {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 60px;
+    border: 2px solid black;
+}
+.Image6{
+    margin-inline: 770px;
+    margin-top: 30px;
+  }
+
+  .Image6 img {
+    width: 50px; /* Set the desired width */
+    height: 50px; /* Set the desired height */
+  }
+  .team2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 275px;
+    padding: 10px; 
+    border-radius: 8px;
+    border: 2px solid #000;
+    margin-inline: 287px;
+    margin-top: -50px;
+    background-color: purple;
+    color: white;
+}
+.Image7 {
+    display: grid; /* Use grid layout */
+    grid-auto-flow: column; /* Arrange items in a single row */
+    gap: 115px; /* Optional: Add some space between images */
+    margin-inline: 47px;
+    margin-top: 30px;
+   
+}
+
+.Image7 img {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 60px;
+    border: 2px solid black;
+}
+.Image8 {
+    display: grid; /* Use grid layout */
+    grid-auto-flow: column; /* Arrange items in a single row */
+    gap: 115px; /* Optional: Add some space between images */
+    margin-inline: 162px;
+    margin-top: 30px;
+   
+}
+
+.Image8 img {
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 60px;
+    border: 2px solid black;
+}
+.Image9{
+    margin-inline: -19px;
+    margin-top: 30px;
+  }
+
+  .Image9 img {
+    width: 50px; /* Set the desired width */
+    height: 50px; /* Set the desired height */
+    
+
+}
+.one{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 99px;
+    margin-inline: 235px;
+    margin-top: -10px;
+    width: 349px;
+    height: 36px;
+}
+.two{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 115px;
+    margin-inline: 234px;
+    margin-top: -10px;
+    width: 349px;
+}
+
+.Three{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 19px;
+    margin-inline: 156px;
+    margin-top: -12px;
+    width: 634px;
+    height: 40px;
+}
+.Four{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 143px;
+    margin-inline: 159px;
+    margin-top: -10px;
+    width: 349px;
+}
+.Five{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 13px;
+    margin-inline: 67px;
+    margin-top: -12px;
+    width: 869px;
+    height: 40px;
+}
+.Six{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 46px;
+    margin-inline: 59px;
+    margin-top: -10px;
+    width: 809px;
+
+}
+.sev{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 19px;
+    margin-inline: 178px;
+    margin-top: -12px;
+    width: 634px;
+    height: 40px;
+}
+
+.eight{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 58px;
+    margin-inline: 161px;
+    margin-top: -10px;
+    width: 598px;
+}
+.nine{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 3px;
+    margin-inline: 53px;
+    margin-top: -12px;
+    width: 869px;
+    height: 40px;
+}
+.ten{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 83px;
+    margin-inline: 63px;
+    margin-top: -10px;
+    width: 809px;
+}
+
+.Elev{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 19px;
+    margin-inline: 168px;
+    margin-top: -12px;
+    width: 634px;
+    height: 40px;
+}
+
+.Twelve{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 19px;
+    margin-inline: 168px;
+    margin-top: -12px;
+    width: 634px;
+    height: 40px;
+}
